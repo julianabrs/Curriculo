@@ -1,2 +1,13 @@
-# Curriculo
-curriculo a terminar
+<html>
+
+ 	<head>
+	</head>
+	 <body>
+		<h1>curriculo vitae</h1>
+		<hr>
+		Juliana Braga Ramiro Siqueira<br>
+		julianabrs2013@gmail.com<br>
+		Brasileira, Solteira, 18 anos<br>
+	</body>
+
+</html>
